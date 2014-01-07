@@ -45,5 +45,6 @@ gem 'jquery-rails'
 # gem 'ruby-debug'
 
 group :production do
+  gem 'bootstrap-sass', '2.0.0'
   gem 'pg', '0.12.2'
 end
