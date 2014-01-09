@@ -14,7 +14,7 @@ group :development, :test do
   gem 'rspec-rails', '2.9.0'
   gem 'capybara', '1.1.2'
   gem 'annotate', ' ~> 2.4.1.beta1'
-
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 gem 'json'
